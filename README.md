@@ -4,4 +4,4 @@ This software is free. You may download, modify, share and use it freely!
 To execute the program, you have to download the source code (cgloslinux.c if you are using Linux or cgloswin.c if you are using Windows) and compile it.
 
   WORK IN PROGRESS!
-    This software is not complete
+    This software is not complete.
